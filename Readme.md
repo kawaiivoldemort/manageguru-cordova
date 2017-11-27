@@ -1,4 +1,4 @@
-# Electron based ManageGuru frontend
+# Apache Cordova based ManageGuru frontend
 
 Built in Electron packaged with Electron Forge
 
