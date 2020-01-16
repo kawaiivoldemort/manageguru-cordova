@@ -1,5 +1,7 @@
 # Apache Cordova based ManageGuru frontend
 
+Manageguru is a business analytics website. This is it's Apache Cordova mobile frontend.
+
 Built in Electron packaged with Electron Forge
 
 ## How to run
